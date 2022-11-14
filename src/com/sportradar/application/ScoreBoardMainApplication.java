@@ -11,6 +11,11 @@ import java.util.Scanner;
 
 import com.sportradar.game.FootballMatchDetails;
 
+/**
+ * @author rahul 
+ * Main application class to run the game.
+ */
+
 public class ScoreBoardMainApplication {
 
 	public static void main(String[] args) throws IOException {
