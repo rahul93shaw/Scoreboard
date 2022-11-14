@@ -3,6 +3,11 @@ package com.sportradar.game;
 import java.util.Date;
 import java.util.Objects;
 
+/**
+ * @author rahul 
+ * Football match details, score and game update data object.
+ */
+
 public class FootballMatchDetails {
 
 	private int matchId;
