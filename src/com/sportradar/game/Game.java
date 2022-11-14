@@ -1,5 +1,10 @@
 package com.sportradar.game;
 
+/**
+ * @author rahul 
+ * Interface of game for a football.
+ */
+
 public interface Game {
 	
 	public String start(String awayTeam, String homeTeam);
